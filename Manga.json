@@ -11,7 +11,7 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your session id",
+      "description": "Bellah~XvInCDyB#3xkyQLraMwcHbsb-NZszuvFibwu9VS65irsgbE4bgQE",
       "value": "",
       "required": true
 },
@@ -22,7 +22,7 @@
     },
   "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
-      "value": "254104245659",
+      "value": "237695140419",
       "required": true
     },
   "PACK_NAME": {
